@@ -30,3 +30,4 @@ elif operator.lower() == "sub":
   subnums(num1, num2)
 else:
   print("that's not an opsin")
+  
